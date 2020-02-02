@@ -11,7 +11,9 @@
   "author": "Md M Monir",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "install": "^0.13.0",
+    "lite-server": "^2.3.0",
+    "npm": "^6.13.7"
   },
   "dependencies": {
     "bootstrap": "^4.0.0",
