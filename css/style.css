@@ -9,6 +9,7 @@ h2{
     color: #3046C5;
 }
 header h2{
+    margin: 0;
     color:#CEC8FF;
 }
 footer{
@@ -29,5 +30,6 @@ footer{
 
 }
 .navbar{
+    
     background-color: #901cad;
 }
